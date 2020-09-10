@@ -1,2 +1,0 @@
-# FizzBuzz-Keenan-Dino
-Inlämningsuppgift
